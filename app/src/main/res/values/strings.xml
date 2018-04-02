@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAsyncTask</string>
+    <string name="text_view_initial_value">Async task is going to work on clicking the button.</string>
+    <string name="button_text">Start Task</string>
+</resources>
